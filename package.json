@@ -19,7 +19,7 @@
     "url": "github.com/vancarney/apihero-module-browserify.git"
   },
   "dependencies": {
-    "browserify": "^11.0.1",
+    "browserify": "^11.0.1"
   },
   "devDependencies": {
     "coffee-script": "^1.9.1",
