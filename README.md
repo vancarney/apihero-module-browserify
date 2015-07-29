@@ -1,2 +1,2 @@
-# apihero-module-stub
-bootstrap repo for manufacturing apihero modules
+# apihero-module-browserify
+Browserify Module for ApiHero
